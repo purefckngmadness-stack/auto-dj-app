@@ -1,0 +1,1 @@
+{"name": "auto-dj-app", "version": "1.0.0", "description": "Auto DJ App", "main": "index.js", "scripts": {"start": "node index.js"}, "dependencies": {}}
